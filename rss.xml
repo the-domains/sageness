@@ -2,15 +2,22 @@
     <channel>
         <title><![CDATA[sageness]]></title>
         <description><![CDATA[sageness]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/sageness/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 14 May 2016 17:18:02 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 14 May 2016 17:18:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sageness/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[A Giant Galaxy Orbiting Our Own Just Appeared Out of Nowhere]]></title>
             <description><![CDATA[<article><h1>A Giant Galaxy Orbiting Our Own Just Appeared Out of Nowhere</h1><p>Researchers scanning the skies just got a big surprise. They spotted a humongous galaxy orbiting our own, where none had been seen before. It appeared, seemingly, out of nowhere. So, just how did the newly-discovered Crater 2 manage to pull off this feat, like a deer leaping from the interstellar bushes to stare us down through our collective headlights?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dd35d86c6f1815ff301b89ff31df46ba5d96e829.jpg"></article>]]></description>
             <link>http://gizmodo.com/a-giant-galaxy-orbiting-our-own-just-appeared-out-of-no-1771257641</link>
             <guid isPermaLink="false">b7a85363-d75d-49ba-a317-d7b9a3485860</guid>
+            <pubDate>Sat, 14 May 2016 17:18:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Great Barrier Reef's Best Hope Is a Killer Robot]]></title>
+            <description><![CDATA[<article><h1>The Great Barrier Reef's Best Hope Is a Killer Robot</h1><p>Crown-of-thorns starfish are the zombies of the sea. They won't die even if you cut them in half. To kill one, you must dismember it completely-or inject it with poisonous (to them) bile salts. Instead of braaains, these zombies munch coral, and off the coast of Australia, infestations of the beasts are damaging the Great Barrier Reef at an alarming rate.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/df2ff642b24f92833cf4da9277a687034f647587.jpg"></article>]]></description>
+            <link>http://www.wired.com/2016/04/starfish-killer-robot/</link>
+            <guid isPermaLink="false">44fbbe46-29c4-49b5-9660-b11d15f3d68f</guid>
             <pubDate>Sat, 14 May 2016 17:18:01 GMT</pubDate>
         </item>
     </channel>
