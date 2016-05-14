@@ -1,0 +1,14 @@
+layout_spectrum: 0.4553852474782616
+typography_spectrum: 0.5680477251298726
+color:
+  brandStrength: 0.8673804770223796
+  lightness: 0.8482838238123804
+  saturation: 0.7605657740496099
+  rhythmicContrast: 0.11362453061155975
+  brandColors:
+    - '#FF6600'
+    - '#C13B00'
+    - '#5E6D70'
+    - '#424E4F'
+    - '#1B1D1E'
+name: sageness
